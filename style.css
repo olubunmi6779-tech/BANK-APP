@@ -1,0 +1,30 @@
+body {
+    background-color: purple;
+    color: white;
+    font-family:fantasy, Arial, sans-serif;
+    padding: 20px;
+    margin: 0;
+}
+
+
+h1 h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+}
+.credit-btn {
+    background-color: orchid;
+    color: orchid;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.debit-btn {
+    background-color: red;
+    color: red;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
